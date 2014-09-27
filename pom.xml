@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>smart-table</artifactId>
-    <version>1.3.0-SNAPSHOT</version>
+    <version>1.3.0</version>
     <name>Smart Table</name>
     <description>WebJar for Smart Table</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/smart-table</url>
         <connection>scm:git:https://github.com/webjars/smart-table.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/smart-table.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>smart-table-1.3.0</tag>
     </scm>
     
     <properties>
